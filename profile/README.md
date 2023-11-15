@@ -4,7 +4,7 @@
 
 We work 'WITH' and 'IN' AI to design fair, efficient, and interpretable public policies for climate change. Our lab is part of Computer Engineering and Technology, Policy and Management Faculties. 
 
-Come check us out at our [homepage]([https://www.tudelft.nl/ai/hippo-lab]).
+Come check us out at our [homepage](https://www.tudelft.nl/ai/hippo-lab).
 
 ![hippolab-logo]
 
