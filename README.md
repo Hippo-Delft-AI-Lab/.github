@@ -1,2 +1,2 @@
 # .github
-Trial
+Welcome to the HIPPO Lab's GitHub organization, TuDelft
