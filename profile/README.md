@@ -13,6 +13,6 @@ Come check us out at our [homepage](https://www.tudelft.nl/ai/hippo-lab).
 🏄 Catch up with our projects and research over at our [publications page](https://www.tudelft.nl/ai/hippo-lab).
 
 
-👽 Did you know that hippos spend most of their day in rivers and lakes and in just one night, they can guzzle down up to 35kg of their favourite snack? ([Source](https://www.natgeokids.com/uk/discover/animals/general-animals/ten-hippo-facts/))
+👽 Did you know that hippos spend most of their day in rivers and lakes and just one night, they can guzzle down up to 35kg of their favourite snack? ([Source](https://www.natgeokids.com/uk/discover/animals/general-animals/ten-hippo-facts/))
 
 🚣 As a not so a philosopher says, "*be water my friend*."
